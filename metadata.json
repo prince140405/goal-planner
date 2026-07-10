@@ -1,0 +1,5 @@
+{
+  "name": "FocusSpace — Daily Planner & Goal Tracker",
+  "description": "A minimalist, offline-first daily planner and goal tracking application featuring cloud sync, weekly progress charts, and custom reminders.",
+  "requestFramePermissions": ["notifications"]
+}
